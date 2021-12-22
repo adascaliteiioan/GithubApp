@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">8dp</dimen>
+    <dimen name="text_title">22sp</dimen>
+    <dimen name="text_normal">16sp</dimen>
+    <dimen name="min_padding">4dp</dimen>
+    <dimen name="max_padding">16dp</dimen>
+</resources>
